@@ -237,6 +237,6 @@ Add the following repeater shortcode.
 [/is_set]
 
 {{post_content}}
-
+{{post_javascript}}
 [/entry]
 ```
